@@ -4,7 +4,7 @@
   Desafios Ignite
 </h1>
 
-## Índice de desafios
+## Desafios
 
 
 ### Chapter II
