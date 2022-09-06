@@ -9,6 +9,6 @@
 
 ### Chapter II
 
-- [Desafio 01 - Criando um hook de carrinho de compras](https://github.com/FelipeBrenner/ignite-reactjs-desafios/tree/main/chapter-II-desafio-01-criando-um-hook-de-carrinho-de-compras)
+- [Desafio 01 - Criando um hook de carrinho de compras](https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12)
 
 
